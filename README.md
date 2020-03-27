@@ -1,4 +1,4 @@
-# Wikimedia inequality project
+# Knowledge cluster formation : Wikimedia inequality project
 This repository is code for xml data processing and agent base modeling in:
 
 Jinhyuk Yun, Sang Hoon Lee, Hawoong Jeong, "Early onset of structural inequality in the formation of collaborative knowledge in all Wikimedia projects", in Nature Human Behaviour: https://www.nature.com/articles/s41562-018-0488-z, https://arxiv.org/abs/1610.06006.
